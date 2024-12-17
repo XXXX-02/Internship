@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+!Osteoarthritis_Assignment_dataset/
+!Osteoarthritis_Assignment_dataset/**/*  # Un-ignore all files within the dataset folder
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
